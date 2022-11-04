@@ -1,0 +1,27 @@
+{
+    "header": {
+        "title": "Bienvenido a tu Polo Hotel",
+        "description": "Hotel Polo es un hermoso hotel ubicado cerca de la playa. Ofrecemos habitaciones con vista al mar, una piscina, un restaurante y un bar. También ofrecemos Wi-Fi gratis, un gimnasio y una sala de reuniones."
+    },
+    "history": {
+        "title": "Historia de nuestro hotel",
+        "description": "Fue construido en 1908 y es uno de los hoteles más antiguos de la ciudad. En sus inicios, el hotel atendía a los ricos y famosos de Hollywood. Actualmente, el Hotel Polo es uno de los hoteles más populares de la ciudad y recibe a huéspedes de todo el mundo."
+    },
+    "location": {
+        "title": "Ubicación",
+        "description": "El Hotel Polo se encuentra en la playa de la malagueta, a pocos pasos del mar. También está cerca de muchos restaurantes, tiendas y atracciones turísticas. Ofrecemos a nuestros huéspedes una experiencia única en una de las mejores playas de Málaga."
+    },
+    "meals": {
+        "title": "Oferta gastronómica",
+        "description": "Ofrecemos un delicioso desayuno buffet todos los días. También ofrecemos un restaurante a la carta para el almuerzo y la cena. Ofrecemos platos típicos de la cocina mañagueña y española."
+    },
+    "fitness": {
+        "title": "Gimnasio",
+        "description": "El hotel ofrece un gimnasio completamente equipado con vistas al mar. También ofrecemos clases de fitness gratuitas todos los días."
+    },
+    "footer": {
+        "text": "Hotel Polo © 2022"
+    }
+}
+
+{error: 'Reserva no encontrada'}

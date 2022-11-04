@@ -1,0 +1,147 @@
+/* Main Styles */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} 
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.7em;
+  font-size: 16px;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1, h2, h3 {
+  padding-bottom: 20px;
+}
+
+p {
+  margin: 10px 0;
+}
+
+
+footer {
+  text-align: center;
+  padding: 10px 0;
+  background-color: #333;
+  color: #fff;
+}
+
+
+/* Navigation Styles */
+
+.navbar {
+  background-color: #333;
+  padding: 20px 20px 0 20px;
+}
+
+.navbar a {
+  color: white;
+}
+
+.logo {
+  float: left;
+}
+
+.navbar ul {
+  float: right;
+}
+
+.navbar ul li {
+  display: inline;
+}
+.navbar h2 {
+  color: white;
+  font-size: 16px;
+  float: left;
+  padding-inline: 100px ;
+    
+}
+
+/* ShowCase */
+
+.showcase {
+  background-image: url(../img/showcase.jpg) ;
+  height: 600px;
+  background-position:center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.showcase-content {
+  color: white;
+  text-align: center;
+  padding: 170px 60px;
+}
+
+.showcase-content h1 {
+  font-size: 45px;
+  padding: 30px;
+  line-height: 1.2em;
+  text-transform: capitalize;
+}
+
+.showcase-content p {
+  padding: 30px;
+}
+
+/* Home INfo */
+.home-info {
+  height: 400px;
+}
+
+.home-info aside {
+  background: url(../img/photo-1.jpg) no-repeat center/cover;
+  width: 50%;
+  height: 100%;
+}
+
+.home-info article {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  height: 100%;
+  width: 50%;
+  padding: 120px 40px 100px 40px 
+}
+
+/* Features */
+
+.box {
+  text-align: center;
+  width: 33%;
+  height: 220px;
+  padding: 40px;
+}
+
+.box-orange {
+  background-color: #f7c08a;
+}
+
+/* Helpers Class */
+
+.clear {
+  clear: both;
+}
+
+.btn {
+  background-color: #333;
+  padding: 10px 15px;
+  color: white
+}
+.btn-secondary {
+  background-color: white;
+  color: #333;
+}
+.fl {
+  float: left;
+}
+.fr {
+  float: right;
+}
+

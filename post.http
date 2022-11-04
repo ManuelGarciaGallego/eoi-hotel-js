@@ -1,0 +1,7 @@
+POST https://practica-eoi.alexdw.com/reservations
+content-type: application/json
+
+{
+    "orderId": "0000001",
+    "lastname": "MARTIN"
+}

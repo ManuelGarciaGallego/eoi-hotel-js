@@ -1,0 +1,10 @@
+{
+  "reservations": {
+    "paid": true,
+    "nights": [
+      { "date": "2022-10-11", "price": 119 },
+      { "date": "2022-10-12", "price": 128 },
+      { "date": "2022-10-13", "price": 131 }
+    ]
+  }
+}
